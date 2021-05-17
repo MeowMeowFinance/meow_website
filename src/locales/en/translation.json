@@ -1,0 +1,84 @@
+{
+  "title": "DEFI + NFT + MEME + CROSS CHAIN",
+  "description": "The $MEOWB is a full community driven, 100% fair launched NFT market and DeFi Token. Reflection, Auto LP, and Burn. Your last chance to the $MEOWB !Believe it or not！",
+  "home":"HOME",
+  "tokenomics": "TOKENOMICS",
+  "airdrop": "AIRDROP",
+  "roadMap": "ROADMAP",
+  
+  "introduction": "WHY BUY $MEOWB?",
+  "reasonTitle1":"Peer-to-Peer Ecosystem",
+  "reasonDesc1":"MEOWB is a fully decentralized, peer-to-peer digital currency, owned in whole by its community. Each user is (in theory) an equivalent owner and contributor of the network.",
+  "reasonTitle2":"Dual Yield Capability",
+  "reasonDesc2":"In most DeFi applications, users must stake or park their tokens in a contract to earn a yield. MEOWB holders can use their tokens in third party lending, yield farming, or any other smart contract in addition to earning yield from the transaction fees.",
+  "reasonTitle3":"Enhanced ROI",
+  "reasonDesc3":"Innovations in the Meow Meow Finance smart contract allow certain addresses, like the Uniswap pool or exchange wallets, to be blocked from earning fees. Because of this, 100% of the fees generated go to holders of the token. This generates a much higher yield than would be possible otherwise.",
+  "introTitle1":"MAX SUPPLY",
+  "introSubtitle1":"1 Quadrillion",
+  "introTitle2":"TOKEN SYMBOL",
+  "introSubtitle2":"$MEOWB",
+  "introTitle3":"NO TEAM TOKENS",
+  "introSubtitle3":"Less Manipulations",
+
+  "tokenomicsHeading":"$MEOWB TOKENOMICS",
+  "tokenomicsTitle1":"$MEOWB Protocol:",
+  "tokenomicsDesc1":"100% community driven + 100% fair launched",
+  "tokenomicsTitle2":"Token Name:",
+  "tokenomicsDesc2":"MEOWB",
+  "tokenomicsTitle3":"Contract Address:",
+  "tokenomicsDesc3":"0x828d0cC86d9fbB876498eE22E72570a0357675da",
+  "tokenomicsTitle4":"Total Supply:",
+  "tokenomicsDesc4":"1,000,000,000,000,000（1 quadrillion)",
+  "tokenomicsChart":"$MEOWB Token Distribution Chart",
+  "tokenSide1":"Airdrop",
+  "tokenSide2":"Marketing",
+  "tokenSide3":"Yield Farming",
+  "tokenSide4":"Early Community Contributor",
+
+
+  "airdropTitle":"300,000,000,000 $MEOWB AirDrop Launching",
+  
+  "dialogTitle":"$MEOWB Airdrop Rules",
+  "dialogList1":"The 0-1000th legal address received 10 million airdrops;",
+  "dialogList2":"The 1001-3000th legal addresses received 5 million airdrops;",
+  "dialogList3":"The 3001-5000th legal addresses received 2.5 million airdrops;",
+  "dialogList4":"Airdrops are halved every 2000 addresses",
+
+  "roadMapTitle1": "May 2021",
+  "roadMapTitle2": "Jun 2021",
+  "roadMapTitle3": "Jul 2021",
+  "roadMapTitle4": "Aug 2021",
+  "roadMapTitle5": "Q3 2021",
+  "roadMapTitle6": "Q4 2021",
+
+  "roadMapList11": "Genesis Launch",
+  "roadMapList12": "300 Billion Token Airdrop",
+  "roadMapList13": "Official Website Published",
+  "roadMapList14": "Official Smart Contract Deployed",
+  "roadMapList15": "Chinese and English Community Launch",
+
+  "roadMapList21": "Liquidity Mining",
+  "roadMapList22": "Marketing Push",
+  "roadMapList23": "Further Ecosystem Development",
+
+  "roadMapList31": "Australia Blockchain Hub Partnership",
+  "roadMapList32": "UTU Partnership",
+  "roadMapList33": "NFT Sale",
+  "roadMapList34": "MEOW MEOW Finance Add Liquidity Pairs",
+
+  "roadMapList41": "Audit by Solidity Finance",
+  "roadMapList42": "MEOWB Staking",
+  "roadMapList43": "MEOW MEOW Finance Cross Chain Deployment",
+  "roadMapList44": "SmartSwap Idea Born",
+  "roadMapList45": "MEOW Lottery Start",
+  
+  "roadMapList51": "MEOW MEOW SmartSwap Implementation",
+  "roadMapList52": "MEOW MEOW Finance Partner Listings",
+
+  "roadMapList61": "Further trading pair listings",
+  "roadMapList62": "Continuous improvement of MEOW MEOW Finance",
+
+  "buyButton":"Buy on PancakeSwap",
+  "rulesButton":"Check Out Rules",
+  "okButton":"Ok, I Got It"
+}

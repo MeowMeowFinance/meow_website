@@ -1,0 +1,84 @@
+{
+  "title": "DEFI + NFT + MEME + CROSS CHAIN",
+  "description": "$MEOWB是一个完全由社区驱动的，100％公平推出的NFT市场和DeFi代币。Reflection，Auto LP和Burn。这是您获得$MEOWB的最后机会！",
+  "home":"首页",
+  "tokenomics": "代币经济模型",
+  "airdrop": "空投",
+  "roadMap": "路线图",
+  
+  "introduction": "为什么要购买$MEOWB",
+  "reasonTitle1":"点对点的生态系统",
+  "reasonDesc1":"MEOWB是一种完全去中心化的点对点数字货币，由其社区整体拥有。从理论上讲，每个用户都是网络的等效所有者和贡献者。",
+  "reasonTitle2":"双重收益能力",
+  "reasonDesc2":"在大多数DeFi应用程序中，用户必须将代币抵押或存放在合约中才能获得收益。MEOWB持有人除了可以从中获取收益外，还可以将其代币用于第三方贷款，流动性挖矿或任何其他智能合约中交易费用。",
+  "reasonTitle3":"投资回报率的提高",
+  "reasonDesc3":"Meow Meow Finance智能合约中的创新允许阻止某些地址（例如Uniswap池或交换钱包）赚取费用。因此，所产生的费用的100％用于代币持有者。产生的收益要比其他方式高得多。",
+  "introTitle1":"最大发放代币数量",
+  "introSubtitle1":"1千万亿",
+  "introTitle2":"代币符号",
+  "introSubtitle2":"$MEOWB",
+  "introTitle3":"团队不持有该代币",
+  "introSubtitle3":"没有潜规则",
+
+  "tokenomicsHeading":"$MEOWB代币经济模型",
+  "tokenomicsTitle1":"$MEOWB机制:",
+  "tokenomicsDesc1":"100％由社区推动 + 100％公平启动",
+  "tokenomicsTitle2":"代币符号:",
+  "tokenomicsDesc2":"MEOWB",
+  "tokenomicsTitle3":"合约地址:",
+  "tokenomicsDesc3":"0x828d0cC86d9fbB876498eE22E72570a0357675da",
+  "tokenomicsTitle4":"总共发放:",
+  "tokenomicsDesc4":"1,000,000,000,000,000（1千万亿)",
+  "tokenomicsChart":"$MEOWB代币获取分布图",
+  "tokenSide1":"空投",
+  "tokenSide2":"市场",
+  "tokenSide3":"流动性挖矿",
+  "tokenSide4":"社区早期投资人",
+
+
+  "airdropTitle":"300,000,000,000 $MEOWB 空投即将启动",
+
+  "dialogTitle":"$MEOWB 空投规则",
+  "dialogList1":"第0-1000合法的地址将获得1000万空投;",
+  "dialogList2":"第1001-3000合法的地址将获得500万空投;",
+  "dialogList3":"第3001-5000合法的地址获得250万空投;",
+  "dialogList4":"每2000地址空投减半",
+
+  "roadMapTitle1": "2021年5月",
+  "roadMapTitle2": "2021年6月",
+  "roadMapTitle3": "2021年7月",
+  "roadMapTitle4": "2021年8月",
+  "roadMapTitle5": "2021年第3季度",
+  "roadMapTitle6": "2021年第4季度",
+
+  "roadMapList11": "项目创世纪启动",
+  "roadMapList12": "3000亿枚代币空投",
+  "roadMapList13": "官方网站发布",
+  "roadMapList14": "智能合约部署",
+  "roadMapList15": "中英文社区启动",
+
+  "roadMapList21": "流动性挖矿",
+  "roadMapList22": "市场推广",
+  "roadMapList23": "进一步的生态系统开发",
+
+  "roadMapList31": "与Australia Blockchain Hub进行合作",
+  "roadMapList32": "与UTU进行合作",
+  "roadMapList33": "NFT销售",
+  "roadMapList34": "MEOW MEOW Finance 增加流动性对",
+
+  "roadMapList41": "通过Solidity Finance进行的审核",
+  "roadMapList42": "MEOWB 质押",
+  "roadMapList43": "MEOW MEOW Finance 跨链部署",
+  "roadMapList44": "SmartSwap想法诞生",
+  "roadMapList45": "MEOW彩票开始进行",
+  
+  "roadMapList51": "MEOW MEOW SmartSwap实施开发",
+  "roadMapList52": "MEOW MEOW Finance合作伙伴列表",
+
+  "roadMapList61": "进一步的交易对列表",
+  "roadMapList62": "MEOW MEOW Finance的持续改进",
+
+  "buyButton":"在PancakeSwap上购买",
+  "rulesButton":"查看规则",
+  "okButton":"我明白了"
+}
