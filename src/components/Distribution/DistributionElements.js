@@ -7,16 +7,20 @@ export const InfoContainer = styled.div`
 `
 
 export const TextWrapper = styled.div`
-  max-width: 25%;
+  max-width: 35%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
 
+  @media screen and (min-width:768px) and (max-width:1440px){
+    max-width:50%;
+  }
+
   @media screen and (max-width: 768px) {
     max-width: 100%;
   }
-}
+  
 `
 
 export const Heading = styled.h2`

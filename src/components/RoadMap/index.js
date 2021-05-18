@@ -5,7 +5,7 @@ import {MdSchedule} from "react-icons/md"
 
 const RoadMap = ({id, t, ln}) => {
   return (
-    <div>
+    <div id={id}>
       <div className="container">
         <div className="textwrapper">
           <h2 className="heading">{t("roadMap")}</h2>

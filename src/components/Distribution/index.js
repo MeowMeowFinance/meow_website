@@ -4,7 +4,7 @@ import {
     TextWrapper,
     Heading
 } from "./DistributionElements";
-import {Doughnut} from "react-chartjs-2";
+import { Doughnut } from "react-chartjs-2";
 
 const DistributionSection = ({t})=>{
     const data = {
@@ -25,7 +25,6 @@ const DistributionSection = ({t})=>{
           hoverOffset: 4
         }],
     };
-    
     return (
         <InfoContainer data-aos="fade-in">
             <Heading>{t("tokenomicsChart")}</Heading>
